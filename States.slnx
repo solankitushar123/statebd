@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="State.Core/State.Core.csproj" />
+  <Project Path="State.Persistence/State.Persistence.csproj" />
+  <Project Path="State.Services/State.Services.csproj" />
+  <Project Path="States/States.csproj" />
+</Solution>
